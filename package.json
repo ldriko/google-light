@@ -1,0 +1,21 @@
+{
+  "name": "google-light",
+  "displayName": "Google Light",
+  "description": "Light colour scheme based on Google's logo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Google Light Bordered",
+        "uiTheme": "vs",
+        "path": "./themes/Google Light Bordered-color-theme.json"
+      }
+    ]
+  }
+}
